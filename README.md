@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![Build Status](https://travis-ci.com/MichaelTan9999/travis.svg?branch=main)](https://travis-ci.com/MichaelTan9999/travis)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
